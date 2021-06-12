@@ -90,6 +90,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#FFAEFA',
     padding: 8,
     paddingBottom:50,
+    backgroundImage:"url('https://img4.goodfon.com/wallpaper/nbig/2/10/vector-abstract-background-design-wavy.jpg')"
   },
   buttonText:{
     fontSize: 15,
